@@ -58,3 +58,6 @@ read*lock
 # Nx cache
 .nx/
 
+
+# Local CDK Contribution Skill deliverables
+.contributions/
